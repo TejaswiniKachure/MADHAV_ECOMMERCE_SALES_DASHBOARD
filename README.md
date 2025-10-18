@@ -2,17 +2,20 @@
 create interactive dashboard to trak and analyze online sales data.
 
 1.Project objective:
+
 The objective of this dashboard is to provide a comprehensive view of Madhav Store’s online sales performance across different regions in India, enabling the business to identify top-performing products, analyze customer preferences, and improve sales strategies.
 Used complex parameters to drill down in worksheet and customization using filters and slicers
 Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
 
 2.💻 Technologies Used:
+
 📊 Power BI – for creating interactive dashboards and visualizations
 🧮 Excel – for data cleaning and basic analysis
 ⚙️ Power Query & DAX – for data transformation and calculations
 📁 File Format – .pbix for development and .png for dashboard previews.
 
 3.🌟 Key Features:
+
   	Regional Sales Analysis 📍
     •	It highlights which states generate the most revenue.
   	Top Product Insights 🛒
@@ -39,8 +42,9 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 🛒 Helped identify top products and profitable regions.
 📈 Boosted overall sales growth efficiency.
 
-5. Screenshot: https://github.com/TejaswiniKachure/MADHAV_ECOMMERCE_SALES_DASHBOARD/blob/main/Screenshot%20Madhav%20Sales%20Dashboard.png
+5. Screenshot: 
    
+https://github.com/TejaswiniKachure/MADHAV_ECOMMERCE_SALES_DASHBOARD/blob/main/Screenshot%20Madhav%20Sales%20Dashboard.png
 
 
 
