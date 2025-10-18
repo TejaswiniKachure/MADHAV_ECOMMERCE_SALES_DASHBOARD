@@ -12,7 +12,7 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 ⚙️ Power Query & DAX – for data transformation and calculations
 📁 File Format – .pbix for development and .png for dashboard previews.
 
-3.🌟 Key Features:
+**3.🌟 Key Features:**
   	Regional Sales Analysis 📍
     •	It highlights which states generate the most revenue.
   	Top Product Insights 🛒
@@ -33,13 +33,13 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
     •	Integrates all sales, product, and customer data in one place.
     •	Helps the owner make strategic business decisions with confidence.
 
-4.🚀 Impact:
+**4.🚀 Impact:**
 📊 Enhanced visibility of sales performance across India.
 💡 Enabled smarter, data-driven business decisions.
 🛒 Helped identify top products and profitable regions.
 📈 Boosted overall sales growth efficiency.
 
-5. Screenshot:
+**5. Screenshot:**
    (https://github.com/TejaswiniKachure/MADHAV_ECOMMERCE_SALES_DASHBOARD/blob/main/Screenshot%20Madhav%20Sales%20Dashboard.png)
    
 
