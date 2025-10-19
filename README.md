@@ -47,5 +47,6 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 https://github.com/TejaswiniKachure/MADHAV_ECOMMERCE_SALES_DASHBOARD/blob/main/Screenshot%20Madhav%20Sales%20Dashboard.png
 
 
+<img width="1342" height="751" alt="Screenshot Madhav Sales Dashboard" src="https://github.com/user-attachments/assets/1da1497c-b68e-4452-a92c-025651bacc0c" />
 
 
