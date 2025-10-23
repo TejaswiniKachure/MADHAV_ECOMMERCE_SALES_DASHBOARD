@@ -18,7 +18,7 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 📁 File Format – .pbix for development and .png for dashboard previews.
 
 3.🌟 Key Features:
-  	Regional Sales Analysis 📍
+  	 Regional Sales Analysis 📍
      •	It highlights which states generate the most revenue.
      
   	Top Product Insights 🛒
