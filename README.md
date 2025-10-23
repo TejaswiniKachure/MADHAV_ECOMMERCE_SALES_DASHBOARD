@@ -18,25 +18,40 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 📁 File Format – .pbix for development and .png for dashboard previews.
 
 3.🌟 Key Features:
-
   	Regional Sales Analysis 📍
-    •	It highlights which states generate the most revenue.
+     •	It highlights which states generate the most revenue.
+     
   	Top Product Insights 🛒
-    •	Displays best-selling products and product categories.
+     •	Displays best-selling products and product categories.
+     
     •	Allows analysis of product-wise contribution to overall revenue.
+    
     •	Helps in inventory planning and marketing focus on popular items.
+    
   	Sales Trend Visualization 📈
+    
     •	Shows monthly sales trends over time.
+    
   	Revenue and Profit Overview 💰
+    
     •	Summarizes total sales, profit margins, and average order values.
+    
     •	Gives a clear view of financial performance.
+    
     •	Helps identify which products, regions, or periods are most profitable.
+    
   	Customer Insights 👥
+    
     •	Provides insights into popular payment methods.
+    
   	Interactive Dashboard ⚡
+    
     •	Users can filter data by state, product category, or time period.
+    
   	Data-Driven Decision Making 📊
+    
     •	Integrates all sales, product, and customer data in one place.
+    
     •	Helps the owner make strategic business decisions with confidence.
 
 4.🚀 Impact:
