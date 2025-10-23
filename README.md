@@ -10,8 +10,11 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 2.💻 Technologies Used:
 
 📊 Power BI – for creating interactive dashboards and visualizations
+
 🧮 Excel – for data cleaning and basic analysis
+
 ⚙️ Power Query & DAX – for data transformation and calculations
+
 📁 File Format – .pbix for development and .png for dashboard previews.
 
 3.🌟 Key Features:
@@ -38,8 +41,11 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 
 4.🚀 Impact:
 📊 Enhanced visibility of sales performance across India.
+
 💡 Enabled smarter, data-driven business decisions.
+
 🛒 Helped identify top products and profitable regions.
+
 📈 Boosted overall sales growth efficiency.
 
 5. Screenshot: 
