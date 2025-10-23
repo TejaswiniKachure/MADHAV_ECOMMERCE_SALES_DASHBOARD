@@ -24,6 +24,7 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
      •	It highlights which states generate the most revenue.
      
   	Top Product Insights 🛒
+    
      •	Displays best-selling products and product categories.
      
     •	Allows analysis of product-wise contribution to overall revenue.
